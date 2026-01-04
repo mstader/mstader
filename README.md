@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I'm Max.
+- DIY enthusiast (on- and offline)
+- Co-developer of https://www.streambleed.com
+- Always interested in side-projects for the weekend
+
 <!--
 **mstader/mstader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
